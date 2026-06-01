@@ -1,0 +1,10 @@
+name: personal-finance-tracker
+title:
+username: ashapeter-data
+account: ashapeter-data
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17448862
+bundleId: 12066606
+url: https://ashapeter-data.shinyapps.io/personal-finance-tracker/
+version: 1
